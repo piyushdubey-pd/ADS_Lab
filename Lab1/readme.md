@@ -1,1 +1,1 @@
-Coded number of islands technique (DFS/ Union-find)
+Coded number of islands program using : technique DFS Union-find
